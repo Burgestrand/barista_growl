@@ -1,5 +1,6 @@
 require 'growl'
 require 'rails'
+require 'barista'
 
 module BaristaGrowl
   class Railtie < Rails::Railtie
